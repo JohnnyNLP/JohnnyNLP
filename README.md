@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40eugenie8%2FGithub-README.md&count_bg=%2312B886&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40eugenie8%2FGithub-README.md&count_bg=%2312B886&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90)
 <img src="https://github-readme-stats.vercel.app/api?username=JohnnyNLP&show_icons=true&theme=radical" alt="JohnnyNLP's github stats" /></a> 
 
