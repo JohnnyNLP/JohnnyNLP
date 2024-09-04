@@ -1,6 +1,7 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/uakbuak?theme=wtf)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={pch7678})](https://solved.ac/{pch7678})
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90)
 
